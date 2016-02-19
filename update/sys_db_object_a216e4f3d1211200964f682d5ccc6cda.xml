@@ -25,10 +25,10 @@
         <sys_id>a216e4f3d1211200964f682d5ccc6cda</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TableDroppedInV2</sys_name>
-        <sys_package display_value="Scratch" source="x_sn_scratch">bb8564f3d1211200964f682d5ccc6c58</sys_package>
+        <sys_package display_value="GoldScratch" source="x_sn_scratch">bb8564f3d1211200964f682d5ccc6c58</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Scratch">bb8564f3d1211200964f682d5ccc6c58</sys_scope>
+        <sys_scope display_value="GoldScratch">bb8564f3d1211200964f682d5ccc6c58</sys_scope>
         <sys_update_name>sys_db_object_a216e4f3d1211200964f682d5ccc6cda</sys_update_name>
         <sys_updated_by>carla.cremers</sys_updated_by>
         <sys_updated_on>2016-02-19 21:38:33</sys_updated_on>

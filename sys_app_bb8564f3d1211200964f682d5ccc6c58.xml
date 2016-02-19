@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <logo/>
         <menu/>
-        <name>Scratch</name>
+        <name>GoldScratch</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -22,9 +22,9 @@
         <sys_created_by>carla.cremers</sys_created_by>
         <sys_created_on>2016-02-19 21:35:53</sys_created_on>
         <sys_id>bb8564f3d1211200964f682d5ccc6c58</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>carla.cremers</sys_updated_by>
-        <sys_updated_on>2016-02-19 21:35:53</sys_updated_on>
+        <sys_updated_on>2016-02-19 21:48:12</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
