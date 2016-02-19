@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="alm_asset" label="TableDroppedInV2" max_length="40" name="x_sn_scratch_tabledroppedinv2" type="collection"/>
-</database>

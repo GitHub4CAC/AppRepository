@@ -3,8 +3,7 @@
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
         <is_fulfillment>false</is_fulfillment>
         <name>x_sn_scratch_tabledroppedinv2</name>
-        <owner_condition table="x_sn_scratch_tabledroppedinv2">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="false" field="sys_created_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserName()"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        <owner_condition table="x_sn_scratch_tabledroppedinv2">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </owner_condition>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>carla.cremers</sys_created_by>
@@ -20,6 +19,6 @@
         <sys_update_name>ua_table_licensing_config_ab26e4f3d1211200964f682d5ccc6cee</sys_update_name>
         <sys_updated_by>carla.cremers</sys_updated_by>
         <sys_updated_on>2016-02-19 21:38:35</sys_updated_on>
-        <table display_value="TableDroppedInV2" name="x_sn_scratch_tabledroppedinv2">a216e4f3d1211200964f682d5ccc6cda</table>
+        <table/>
     </ua_table_licensing_config>
 </record_update>
