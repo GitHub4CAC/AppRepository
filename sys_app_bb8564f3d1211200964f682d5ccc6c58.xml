@@ -2,7 +2,7 @@
 <record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
-        <enforce_license>log</enforce_license>
+        <enforce_license>enforce</enforce_license>
         <js_level/>
         <licensable>true</licensable>
         <logo/>
@@ -22,14 +22,14 @@
         <sys_created_by>carla.cremers</sys_created_by>
         <sys_created_on>2016-02-19 21:35:53</sys_created_on>
         <sys_id>bb8564f3d1211200964f682d5ccc6c58</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>carla.cremers</sys_updated_by>
-        <sys_updated_on>2016-02-19 21:57:58</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2016-02-23 01:17:17</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>2.0.0</version>
+        <version>3.0.0</version>
     </sys_app>
 </record_update>
