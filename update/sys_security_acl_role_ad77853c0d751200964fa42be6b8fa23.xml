@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2016-02-23 02:37:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ad77853c0d751200964fa42be6b8fa23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sn_scratch_v8table.x_sn_scratch_v8table_user</sys_name>
+        <sys_package display_value="GoldScratch" source="x_sn_scratch">bb8564f3d1211200964f682d5ccc6c58</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GoldScratch">bb8564f3d1211200964f682d5ccc6c58</sys_scope>
+        <sys_security_acl display_value="x_sn_scratch_v8table">e977853c0d751200964fa42be6b8fa22</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ad77853c0d751200964fa42be6b8fa23</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2016-02-23 02:37:55</sys_updated_on>
+        <sys_user_role display_value="x_sn_scratch_v8table_user" name="x_sn_scratch_v8table_user">2d77853c0d751200964fa42be6b8fa0b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
