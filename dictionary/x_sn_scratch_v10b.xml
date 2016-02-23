@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_package" label="V10B" max_length="40" name="x_sn_scratch_v10b" type="collection"/>
+</database>

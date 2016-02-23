@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>host</col_name_string>
+        <index_col_name element="host" name="cmdb_ci_endpoint">fd54e1b215211200368bf3ee7a3bcbe4</index_col_name>
+        <logical_table_name>cmdb_ci_endpoint</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2016-02-23 04:21:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>261fdd7c0d751200964fa42be6b8fab6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci_endpoint</sys_name>
+        <sys_package display_value="GoldScratch" source="x_sn_scratch">bb8564f3d1211200964f682d5ccc6c58</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GoldScratch">bb8564f3d1211200964f682d5ccc6c58</sys_scope>
+        <sys_update_name>sys_index_cmdb_ci_endpoint_host</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2016-02-23 04:21:12</sys_updated_on>
+        <table display_value="Endpoint" name="cmdb_ci_endpoint">f954e1b215211200368bf3ee7a3bcbdf</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

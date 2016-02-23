@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="change_request" label="V10A" max_length="40" name="x_sn_scratch_v10a" type="collection"/>
+</database>

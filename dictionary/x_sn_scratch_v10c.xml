@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_endpoint_inclusion" label="V10C" max_length="40" name="x_sn_scratch_v10c" type="collection"/>
+</database>

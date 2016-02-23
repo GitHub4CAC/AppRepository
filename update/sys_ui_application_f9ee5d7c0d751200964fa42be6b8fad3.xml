@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>V10A</name>
+        <order/>
+        <roles>x_sn_scratch_v10a_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2016-02-23 04:20:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f9ee5d7c0d751200964fa42be6b8fad3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>V10A</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GoldScratch" source="x_sn_scratch">bb8564f3d1211200964f682d5ccc6c58</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GoldScratch">bb8564f3d1211200964f682d5ccc6c58</sys_scope>
+        <sys_update_name>sys_ui_application_f9ee5d7c0d751200964fa42be6b8fad3</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2016-02-23 04:20:21</sys_updated_on>
+    </sys_ui_application>
+</record_update>
