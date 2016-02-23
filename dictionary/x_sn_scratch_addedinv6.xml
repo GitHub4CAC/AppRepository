@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="discovery_status" label="AddedInV6" max_length="40" name="x_sn_scratch_addedinv6" type="collection">
+        <element label="Float" max_length="40" name="float" type="float"/>
+    </element>
+</database>
