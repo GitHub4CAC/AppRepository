@@ -3,8 +3,7 @@
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
         <is_fulfillment>true</is_fulfillment>
         <name>x_sn_scratch_v3table</name>
-        <owner_condition table="x_sn_scratch_v3table">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="false" field="sys_created_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserName()"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        <owner_condition table="x_sn_scratch_v3table">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </owner_condition>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>maint</sys_created_by>
@@ -20,6 +19,6 @@
         <sys_update_name>ua_table_licensing_config_357cf8b80d751200964fa42be6b8fa95</sys_update_name>
         <sys_updated_by>maint</sys_updated_by>
         <sys_updated_on>2016-02-23 02:07:04</sys_updated_on>
-        <table display_value="V3Table" name="x_sn_scratch_v3table">5a5cf8b80d751200964fa42be6b8fa6c</table>
+        <table/>
     </ua_table_licensing_config>
 </record_update>

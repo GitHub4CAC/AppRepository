@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="v_table_creator" label="V3Table" max_length="40" name="x_sn_scratch_v3table" type="collection"/>
-</database>
