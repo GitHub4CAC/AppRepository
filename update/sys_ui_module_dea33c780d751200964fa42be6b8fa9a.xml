@@ -2,30 +2,30 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="TableInV2">7c3a2cf3d1211200964f682d5ccc6cbc</application>
+        <application display_value="TableAddedInV2">1aa33c780d751200964fa42be6b8fa9a</application>
         <filter/>
-        <name>TableInV2s</name>
+        <name>TableAddedInV2s</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>x_sn_scratch_tableinv2_user</roles>
+        <roles>x_sn_scratch_tableaddedinv2_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
-        <sys_created_by>carla.cremers</sys_created_by>
-        <sys_created_on>2016-02-19 21:56:10</sys_created_on>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2016-02-23 01:11:25</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>343a2cf3d1211200964f682d5ccc6cbd</sys_id>
+        <sys_id>dea33c780d751200964fa42be6b8fa9a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>TableInV2s</sys_name>
+        <sys_name>TableAddedInV2s</sys_name>
         <sys_package display_value="GoldScratch" source="x_sn_scratch">bb8564f3d1211200964f682d5ccc6c58</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GoldScratch">bb8564f3d1211200964f682d5ccc6c58</sys_scope>
-        <sys_update_name>sys_ui_module_343a2cf3d1211200964f682d5ccc6cbd</sys_update_name>
-        <sys_updated_by>carla.cremers</sys_updated_by>
-        <sys_updated_on>2016-02-19 21:56:10</sys_updated_on>
-        <table>x_sn_scratch_tableinv2</table>
+        <sys_update_name>sys_ui_module_dea33c780d751200964fa42be6b8fa9a</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2016-02-23 01:11:25</sys_updated_on>
+        <table>x_sn_scratch_tableaddedinv2</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>

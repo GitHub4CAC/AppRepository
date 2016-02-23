@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element attributes="update_synch=true" extends="sys_dictionary" label="TableInV2" max_length="40" name="x_sn_scratch_tableinv2" type="collection"/>
-</database>
